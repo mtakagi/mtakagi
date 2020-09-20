@@ -10,7 +10,7 @@ I can use Unity a little. and I distress by recent programming language.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mtakagi&repo=CCCS)](https://github.com/mtakagi/CCCS)
 
-### CCCS Unity と C# 製の ChaCha20 と 実装
+### Unity と C# 製の ChaCha20・Salsa20,ARC4 の実装
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mtakagi&repo=Unity-Crypto)](https://github.com/mtakagi/Unity-Crypto)
 
 ## GitHub のステータス
