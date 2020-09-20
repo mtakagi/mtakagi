@@ -14,13 +14,15 @@ I can use Unity a little. and I distress by recent programming language.
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mtakagi&show_icons=true)](https://github.com/mtakagi?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtakagi&layout=compact)](https://github.com/mtakagi?tab=repositories)
 
+#### Coding Activity
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mtakagi)](https://github.com/anuraghazra/github-readme-stats)
+
 #### SNS
 
 |Twitter|Tumblr | Discord |
 |-------|-------|---------|
 |[![Twitter Follow](https://img.shields.io/twitter/follow/runloop_run?style=social&label=Follow)](https://twitter.com/runloop_run)|[![Tumblr](https://img.shields.io/badge/-Make%20Me%20Brave%20Strong!-000000.svg?logo=tumblr&style=plastic")](http://mtakagi.tumblr.com)|[![Discord](https://img.shields.io/discord/713563606838673438?label=NCC-1701)](https://discord.com/channels/713563606838673438)|
-
-
 
 <!--
 **mtakagi/mtakagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,6 +37,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?mtakagi=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
 
 -->
