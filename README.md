@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm japanese programmer.
+I'm japanese game programmer.
 
 I can use Unity a little. and I distress by recent programming language.
 
