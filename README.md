@@ -16,9 +16,12 @@ I can use Unity a little. and I distress by recent programming language.
 
 #### SNS
 
-|Twitter| Discord |
-|-------|---------|
-|[![Twitter Follow](https://img.shields.io/twitter/follow/runloop_run?style=social&label=Follow)](https://twitter.com/runloop_run)|[![Discord](https://img.shields.io/discord/713563606838673438?label=NCC-1701)](https://discord.com/channels/713563606838673438)|
+|Twitter|Tumblr | Discord |
+|-------|-------|---------|
+|[![Twitter Follow](https://img.shields.io/twitter/follow/runloop_run?style=social&label=Follow)](https://twitter.com/runloop_run)|[![Tumblr](https://img.shields.io/badge/-Make%20Me%20Brave%20Strong!-000000.svg?logo=tumblr&style=plastic")](http://mtakagi.tumblr.com)|[![Discord](https://img.shields.io/discord/713563606838673438?label=NCC-1701)](https://discord.com/channels/713563606838673438)|
+
+
+
 <!--
 **mtakagi/mtakagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
