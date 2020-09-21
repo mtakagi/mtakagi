@@ -23,7 +23,7 @@ I can use Unity a little. and I distress by recent programming language.
 
 ### Coding Activity
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mtakagi)](https://github.com/mtakagi/mtakagi)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mtakagi)](https://wakatime.com/@mtakagi)
 
 ## SNS
 
