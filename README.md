@@ -15,7 +15,7 @@ I can use Unity a little. and I distress by recent programming language.
 
 ## GitHub のステータス
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mtakagi&show_icons=true)](https://github.com/mtakagi?tab=repositories)
+[![mtakagi's github stats](https://github-readme-stats.vercel.app/api?username=mtakagi&show_icons=true)](https://github.com/mtakagi?tab=repositories)
 
 ### 使用言語の比率
 
@@ -23,7 +23,7 @@ I can use Unity a little. and I distress by recent programming language.
 
 ### Coding Activity
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mtakagi)](https://wakatime.com/@mtakagi)
+[![mtakagi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mtakagi)](https://wakatime.com/@mtakagi)
 
 ## SNS
 
